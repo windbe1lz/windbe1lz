@@ -1,6 +1,6 @@
 🌐 **AI 算法/应用工程师** | 🤖 **大模型应用落地专家** | 🧩 **智能审计架构师** | ⚙️ **多智能体协作者**
 
-💻 `const life = () => isModelConverged() ? "deploy agent" : "optimize prompt";`
+💻 `workflow.add_conditional_edges("eval", lambda state: "deploy" if state.ready else "optimize")`
 
 ---
 
