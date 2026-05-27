@@ -1,16 +1,52 @@
-## Hi there 👋
+🌐 **AI 算法/应用工程师** | 🤖 **大模型应用落地专家** | 🧩 **智能审计架构师** | ⚙️ **多智能体协作者**
 
-<!--
-**windbe1lz/windbe1lz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 `const life = () => isModelConverged() ? "deploy agent" : "optimize prompt";`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技术武器库
+* **AI & 大模型**: LangChain, LangGraph, RAGFlow, Dify
+* **编程语言**: Python (核心), Java, C
+* **全栈与工程化**: Vue3, Docker, RabbitMQ
+* **数据库与向量库**: MySQL, PostgreSql, Milvus, Elasticsearch, Redis
+
+---
+
+## 🔥 核心战绩
+* ✅ **主导华润集团智能审计应用落地**：以智能体专家身份参与项目，主导开发“审计智能问答”与“审计智能撰写”Agent，成功上线集团应用层，开放给公司所有审计业务人员使用。
+* ✅ **全栈赋能审计业务**：主导“审计一体机”、“审元学院”等核心 AI 应用开发，落地智能问数、定性诊断、招采/虚假贸易智能体等复杂垂直业务场景。
+* ✅ **攻克底层异构硬件适配**：在 Nvidia、AMD、华为昇腾、Iluvatar CoreX (沐曦)、智凯等多种显卡及 x86、ARM 架构平台上完成大模型部署与集成测试验证。
+* ✅ **突破安全沙箱限制**：在底层架构开发中，成功将系统逻辑从高风险的 `exec()` 动态执行重构为基于 LLM 结构化 JSON 输出的解析流，有效规避了安全沙箱环境下的权限限制与运行异常。
+* ✅ **打通企业级数据壁垒**：完成华润集团知识库方案落地，实现 30+ 业务单元海量制度与案例的智能切分，并建立基于元数据的跨业务单元数据权限校验机制。
+
+---
+
+## 💣 极客信条
+让通用大模型真正懂垂直业务，用多智能体打破企业信息孤岛；代码需严谨，安全与效率并重。
+
+---
+
+## 🔄 日常循环
+1. 需求拆解与业务调研
+2. RAG 知识库构建与细粒度权限校验设计
+3. LangGraph 工作流编排与 Dify 专属插件开发
+4. 跨平台模型适配与底层提示词调优
+5. Code Review & 安全策略加固
+6. 产出结构化审计洞察与自动化报告
+
+---
+
+## 🧠 专业领域
+* 🏆 **AI 审计应用**：制度/案例库切分、智能报告撰写、文献阅读助手开发（总结、翻译、思维导图生成）。
+* 🏆 **大模型工程化**：复杂 Agent 工作流设计、大模型结构化 JSON 解析、主流 RAG 框架集成。
+* 🏆 **多硬件算力适配**：跨异构 GPU（涵盖主流与国产化替代方案）的模型部署与性能调优。
+* 🏆 **复合型专业背景**：南京审计大学计算机专业本硕连读，持有 CISA 信息系统审计师证书，斩获 2025 年德勤数字化精英挑战赛决赛入围资格。
+
+---
+
+## 🎯 时间分配
+```text
+███████████ 40% 多智能体协同与复杂业务流编排
+█████████ 30% RAG 系统优化与大模型底层调优
+██████ 20% 异构算力适配与系统架构重构
+██ 10% 业务线索挖掘与全栈应用实现
